@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1699098128 source:g:\cpp\codeblocks\leetcodenovemberchallenge\main.cpp
+	<iostream>
+	"functions.cpp"
+	"header.h"
+
+1699098000 g:\cpp\codeblocks\leetcodenovemberchallenge\header.h
+
+1699098110 g:\cpp\codeblocks\leetcodenovemberchallenge\functions.cpp
+	<iostream>
+	"header.h"
+

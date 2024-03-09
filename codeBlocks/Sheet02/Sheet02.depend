@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1699099372 source:g:\cpp\codeblocks\sheet02\main.cpp
+	<iostream>
+	<string>
+	"functions.cpp"
+
+1698750730 g:\cpp\codeblocks\sheet02\headers.h
+
+1699099436 g:\cpp\codeblocks\sheet02\functions.cpp
+	<iostream>
+	<string>
+

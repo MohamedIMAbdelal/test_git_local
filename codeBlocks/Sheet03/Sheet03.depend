@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1699856519 source:g:\cpp\codeblocks\sheet03\main.cpp
+	<iostream>
+	"headers.h"
+
+1699855684 g:\cpp\codeblocks\sheet03\headers.h
+
