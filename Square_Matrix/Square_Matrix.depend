@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1678731556 source:c:\users\bahaa\desktop\embedded systems\square_matrix\main.c
+	<stdio.h>
+	<stdlib.h>
+	"sqmatrix.h"
+
+1678731442 c:\users\bahaa\desktop\embedded systems\square_matrix\sqmatrix.h
+	"mat_add.c"
+
+1678731446 c:\users\bahaa\desktop\embedded systems\square_matrix\mat_add.c
+	"sqmatrix.h"
+

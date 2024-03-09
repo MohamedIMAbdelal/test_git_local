@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1677355445 source:c:\users\bahaa\desktop\embedded systems\exercise\main.c
+	<stdio.h>
+	<stdlib.h>
+

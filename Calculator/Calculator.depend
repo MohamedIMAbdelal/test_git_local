@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1677840565 source:c:\users\bahaa\desktop\embedded systems\calculator\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Func_prototype.h"
+
+1677840684 c:\users\bahaa\desktop\embedded systems\calculator\func_prototype.h
+	"Implementation.c"
+
+1677840684 c:\users\bahaa\desktop\embedded systems\calculator\implementation.c
+	"Func_prototype.h"
+

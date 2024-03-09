@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1677192647 source:c:\users\bahaa\desktop\embedded systems\factorial\main.c
+	<stdio.h>
+	<stdlib.h>
+
